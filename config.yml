@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run:
           name: build site and push to github-pages
-          command: sh publish.sh
+          command: echo Hello CircleCI
     branches:
       only:
         - master
