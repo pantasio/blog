@@ -31,3 +31,6 @@ IOMMU group 13:
 
 Linux Host, Windows Guest, GPU passthrough reinitialization fix  
 https://forum.level1techs.com/t/linux-host-windows-guest-gpu-passthrough-reinitialization-fix/121097
+
+
+https://forums.unraid.net/topic/72062-ryzen-build-gamer-nas-server/
