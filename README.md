@@ -27,3 +27,7 @@ IOMMU group 13:
 [1022:145c] 1d:00.3 USB controller: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-0fh) USB 3.0 Host Controller
 
 [1022:1457] 1e:00.3 Audio device: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-0fh) HD Audio Controller
+
+
+Linux Host, Windows Guest, GPU passthrough reinitialization fix  
+https://forum.level1techs.com/t/linux-host-windows-guest-gpu-passthrough-reinitialization-fix/121097
